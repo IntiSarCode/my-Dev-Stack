@@ -33,8 +33,7 @@ const TechnologySection = () => {
             Pick one technology per category to build your ideal stack.
           </p>
         </div>
-
-    
+        
         <div className="technology-layout">
 
           

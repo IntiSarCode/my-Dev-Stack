@@ -1,7 +1,8 @@
 import React from "react";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Hero from "./components/Hero";
 import TechnologySection from "./components/TechnologySection";
+import Footer from "./components/Footer";
 import './App.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <TechnologySection />
+      <Footer />
     </>
   )
 }
