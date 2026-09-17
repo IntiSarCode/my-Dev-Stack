@@ -19,6 +19,3 @@ Users can explore different technologies from categories such as Frontend, Backe
 
 ### 2. 📦 Build Your Own Stack
 Users can add technologies to their stack, remove individual technologies, or remove all selected technologies.
-
-### 3. 🔔 Interactive Notifications
-React-Toastify displays notifications when users add technologies, try to add duplicates, remove technologies, or clear their stack.
