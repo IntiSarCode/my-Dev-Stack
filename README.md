@@ -1,16 +1,24 @@
-# React + Vite
+# 🚀 Dev Stack
+Dev Stack is a web application that helps developers explore different technologies and build their own development stack. Users can view technology details such as category, description, rating, difficulty, and badges.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+-----------------------------------------
 
-Currently, two official plugins are available:
+## 🛠️ Technology That I Use
+- React.js
+- JavaScript (ES6+)
+- Vite
+- CSS
+- JSON
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+-----------------------------------------
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. 🔍 Explore Technologies 
+Users can explore different technologies from categories such as Frontend, Backend, Database, Language, Styling, and DevOps.
 
-## Expanding the Oxlint configuration
+### 2. 📦 Build Your Own Stack
+Users can add technologies to their stack, remove individual technologies, or remove all selected technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 3. 🔔 Interactive Notifications
+React-Toastify displays notifications when users add technologies, try to add duplicates, remove technologies, or clear their stack.
