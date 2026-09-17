@@ -3,11 +3,11 @@ Dev Stack is a web application that helps developers explore different technolog
 
 -----------------------------------------
 
-## 🛠️ Technology That I Use
+## 🛠️ Technology Usage
 - React.js
+- Tailwind CSS
 - JavaScript (ES6+)
 - Vite
-- CSS
 - JSON
 
 -----------------------------------------
